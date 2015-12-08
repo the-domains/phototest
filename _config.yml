@@ -1,7 +1,7 @@
 name: PhotoTest
 favicon: null
-layout_spectrum: 0.09294601762667298
-typography_spectrum: 0.3268038029782474
+layout_spectrum: 0.97609
+typography_spectrum: 0.21495
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#f7f4eb'
+    - '#7280a3'
+    - '#b6c0cc'
+    - '#08090d'
+    - '#3e4e68'
   brandStrength: 0.5963672385551035
   lightness: 0.3637513713911176
   saturation: 0.7692807333078235
